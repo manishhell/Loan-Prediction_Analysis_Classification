@@ -12,4 +12,4 @@
  * Random Forest
 
 
-# Best accuracy model : 81
+Best model  accuracy : 81.00
